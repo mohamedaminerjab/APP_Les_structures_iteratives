@@ -63,15 +63,6 @@ int main() {
   }
   scanf("%d", & niveau);
 
-
-  switch (niveau){
-      case 1 : {
-            // Tirer une valeur aléatoire entre 0 et 100.
-      nombre_mystere = rand() % 101; // % => Reste de la division entière
-      intervalle_max = 100;
-      nb_coup_maximal = 15;
-      }
-  }
   if (niveau > 0) {
     if (niveau == 1) {
 
