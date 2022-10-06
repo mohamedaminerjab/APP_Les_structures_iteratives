@@ -55,12 +55,6 @@ int main() {
   printf("------------------------     3: Niveau Difficile             ------------------------\n");
   printf("------------------------     0: Quitter                      ------------------------\n");
 
-  int n =20;
-  for(int i=0, j=0;(i<n) && (j<n); i++,j+=5){
-
-    printf("(%d, %d )\n",i,j);
-
-  }
   scanf("%d", & niveau);
 
   if (niveau > 0) {
