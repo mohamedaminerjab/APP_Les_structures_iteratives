@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1664795782 source:c:\users\rjabo\desktop\medaminerjab\les_structures_iteratives\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+
+1664794696 source:c:\users\rjabo\desktop\medaminerjab\les_structures_iteratives\main_bis.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+
