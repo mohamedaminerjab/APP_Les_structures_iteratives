@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h> // toupper()
-int
-main ()
+int main () 
 {
   char caractere_joueur;
   int niveau, nombre_joueur, coupsRestants = 15, coupsRestants2 = 10;
